@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_AboutMe"
+        android:title="About Me" />
+
+    <item
+        android:id="@+id/menu_Hobby"
+        android:title="Hobbies" />
+
+    <item
+        android:id="@+id/menu_Skill"
+        android:title="Skills" />
+
+
+    <item android:title="TimeTable"
+        android:id="@+id/menu_TimeTable" />
+
+
+    <item
+        android:id="@+id/menu_UitmWebsite"
+        android:title="Uitm Website" />
+
+
+    <item
+        android:id="@+id/menu_istudent"
+        android:title="iStudent Portal" />
+
+    <item
+        android:title="Home"
+        android:id="@+id/menu_home"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+
+</menu>
